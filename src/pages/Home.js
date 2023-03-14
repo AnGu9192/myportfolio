@@ -24,7 +24,7 @@ function Home() {
             </li>
             <li className='item'>
               <h2>Back-End</h2>
-              <span></span>
+              <span>PHP,MySql</span>
             </li>
             <li className='item'>
               <h2>Languages</h2>
