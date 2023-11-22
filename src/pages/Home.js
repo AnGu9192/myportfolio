@@ -26,6 +26,8 @@ function Home() {
               <h2>Back-End</h2>
               <span>PHP,MySql,Laravel,OOP,MVC</span>
             </li>
+                  <span>PHP,MySql,Laravel,OOP,MVC</span>
+
             <li className='item'>
               <h2>Languages</h2>
               <span>JavaScript,TypeScript</span>
