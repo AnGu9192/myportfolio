@@ -19,7 +19,7 @@ function Home() {
             <li className='item'>
               <h2>Front-End</h2>
               <span>
-                ReactJS, HTML, CSS, StyledComponents
+                ReactJS, HTML, CSS
               </span>
             </li>
             <li className='item'>
